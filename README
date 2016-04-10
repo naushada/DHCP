@@ -1,0 +1,6 @@
+1. Configure your NIC with IP Address as 192.168.3.1
+2. DHCP server binds itself with INADDR_ANY
+3. DHCP Server starts assigining IP address to DHCP client from 192.168.3.2
+4. This DHCP Server has been tested on Linux Kernel on Ubuntu Machine
+5. For any issue please report it to NAUSHAD.DLN@GMAIL.COM
+
